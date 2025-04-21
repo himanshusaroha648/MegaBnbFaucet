@@ -30,15 +30,9 @@ A comprehensive toolkit for interacting with MegaBNB Testnet and other EVM-compa
    npm install ethers axios chalk readline-sync dotenv 
    ```
 
-3. Create a `.env` file in the root directory with your configuration:
+3. script run :
    ```
-   # Network Configuration
-   BNB_RPC_URL=https://rpc.mbscan.io/
-   BNB_CHAIN_ID=696969
-   BNB_EXPLORER_URL=https://mbscan.io
-   
-   # Wallet Configuration (Optional)
-   PRIVATE_KEY=your_private_key_here
+   node main.js
    ```
 
 ## 💼 Usage
