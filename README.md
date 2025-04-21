@@ -27,7 +27,7 @@ A comprehensive toolkit for interacting with MegaBNB Testnet and other EVM-compa
 
 2. Install dependencies:
    ```bash
-   npm install
+   npm install ethers axios chalk readline-sync dotenv 
    ```
 
 3. Create a `.env` file in the root directory with your configuration:
